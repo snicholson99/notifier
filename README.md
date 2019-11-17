@@ -1,8 +1,8 @@
-# React Boilerplate
-A React boilerplate created using create-react-app. Includes SCSS build and watch scripts.
+# Notifier ⏰
+A React project to trigger a notification at a specified time period.
 
 ### Build Instructions
-    git clone https://github.com/snicholson99/react-boilerplate  
-    cd ./react-boilerplate  
+    git clone https://github.com/snicholson99/notifier  
+    cd ./notifier 
     npm i
     npm start    

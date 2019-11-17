@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <h1>React App Boilerplate</h1>
+      <h1>Notifier</h1>
       
     </div>
   );
